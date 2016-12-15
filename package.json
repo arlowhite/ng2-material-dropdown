@@ -83,6 +83,7 @@
   "main": "./dist/ng2-dropdown.bundle.js",
   "files": [
     "dist",
-    "index.ts"
+    "index.ts",
+    "src"
   ]
 }

@@ -4,3 +4,5 @@
 !index.js.map
 
 dist/index.d.ts
+!index.ts
+!src
