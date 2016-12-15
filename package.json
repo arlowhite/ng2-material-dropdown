@@ -84,6 +84,7 @@
   "files": [
       "src",
     "dist",
-    "index.ts"
+    "index.ts",
+    "src"
   ]
 }
